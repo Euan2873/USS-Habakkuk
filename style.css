@@ -1,0 +1,22 @@
+// Ignore this
+@import "https://necolas.github.io/normalize.css/8.0.1/normalize.css";
+
+.header {
+  padding: 20px;
+  background-color: black;
+  text-align: center;
+}
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+.content {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.footer {
+  text-align: center;
+  margin-top: 60px;
+}
