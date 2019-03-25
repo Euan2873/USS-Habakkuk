@@ -1,6 +1,8 @@
 # [USS Habakkuk](https://uss-habakkuk.netlify.com/)
 **"If the moral arc of the universe bends towards justice, then it is science that is the anvil's horn."**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e4d10bf-83fb-4c78-b9d7-21458559adfc/deploy-status)](https://app.netlify.com/sites/uss-habakkuk/deploys)
+
 ## How the website works
 So, the website is built using [Thunderbird](https://thunderbird.netlify.com/), a PHP static site generator. 
 
@@ -34,5 +36,3 @@ The CSS and Javascript files for the site belong in the `dist` directory in thei
 * Don't remove the `composer.json`, `config.php`, `thunderbird`, `sample.env`, `local` or `.gitignore` files/folders or things will get messed up.
 
 If you have any other questions, just ask me!
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7e4d10bf-83fb-4c78-b9d7-21458559adfc/deploy-status)](https://app.netlify.com/sites/uss-habakkuk/deploys)
