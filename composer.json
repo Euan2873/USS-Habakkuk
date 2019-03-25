@@ -1,0 +1,32 @@
+{
+    "name": "thunderbirdssg/thunderbird",
+    "description": "Fast and Lightweight Static Site Generator",
+    "authors": [
+        {
+            "name": "Duncan McClean",
+            "email": "duncan@mcclean.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Thunderbird\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "symfony/console": "^4.2",
+        "symfony/web-server-bundle": "^4.2",
+        "symfony/dotenv": "^4.2",
+        "jenssegers/blade": "^1.1",
+        "symfony/filesystem": "^4.2",
+        "pagerange/metaparsedown": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
