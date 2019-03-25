@@ -1,4 +1,0 @@
-[build]
-  command = "composer install | php thunderbird build"
-  publish = "dist"
-  PHP_VERSION=7.2
