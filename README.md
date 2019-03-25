@@ -34,3 +34,5 @@ The CSS and Javascript files for the site belong in the `dist` directory in thei
 * Don't remove the `composer.json`, `config.php`, `thunderbird`, `sample.env`, `local` or `.gitignore` files/folders or things will get messed up.
 
 If you have any other questions, just ask me!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e4d10bf-83fb-4c78-b9d7-21458559adfc/deploy-status)](https://app.netlify.com/sites/uss-habakkuk/deploys)
