@@ -1,7 +1,6 @@
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
-
 <br />
 ![Captain](/assets/images/Captain_Henry.jpg)
 
@@ -33,7 +32,6 @@ Lieutent Abbie Hence - CMO
 
 # CIVILIAN
 Zuto Teseg - Stargazer bar tender
-
 <br /> 
 ![Bartender](/assets/images/Zuto_Teseg.png)
 
