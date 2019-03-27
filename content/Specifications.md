@@ -1,6 +1,9 @@
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
+
+<br />
+![Captain](/assets/images/Captain henry.jpg)
 Commander Feezal - First officer
 
 #### CONN
