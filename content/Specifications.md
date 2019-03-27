@@ -22,6 +22,7 @@ Ensign Euan Buchanan - COO
 # SCIENCE
 #### SCIENCE
 Lieutenent Commander Doldar - CSO
+
 ![Science officer](/assets/images/Doldar.png)
 
 #### MEDICAL
