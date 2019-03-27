@@ -9,6 +9,9 @@ Commander Feezal - First officer
 
 #### CONN
 Lieutenent Junior Grade Ziara Rrareth - CHO
+<br />
+![Conn](/assets/images/Ziara.png)
+
 
 # OPERATIONS
 #### TACTICAL/SECURITY
@@ -22,7 +25,7 @@ Ensign Euan Buchanan - COO
 # SCIENCE
 #### SCIENCE
 Lieutenent Commander Doldar - CSO
-
+<br />
 ![Science officer](/assets/images/Doldar.png)
 
 #### MEDICAL
