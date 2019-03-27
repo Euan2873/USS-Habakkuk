@@ -1,31 +1,35 @@
-COMMAND
+#COMMAND
 
-Captain Hercules Henry - Executive officer
-Commander Feezal - First officer
+    COMMAND
 
-CONN
-Lieutenent Junior Grade Ziara Rrareth - CHO
+    Captain Hercules Henry - Executive officer
+    Commander Feezal - First officer
 
+    CONN
+    Lieutenent Junior Grade Ziara Rrareth - CHO
 
-TACTICAL/SECURITY
+#OPERATIONS
 
-Lieutent Okel Th'akyllith - CTO
+    TACTICAL/SECURITY
 
-
-ENGINEERING
-
-Chief Petty officer Arlin Chell - CEO
-Ensign Euan Buchanan - COO
+    Lieutent Okel Th'akyllith - CTO
 
 
-SCIENCE
+    ENGINEERING
 
-Lieutenent Commander Doldar - CSO
+    Chief Petty officer Arlin Chell - CEO
+    Ensign Euan Buchanan - COO
+
+#SCIENCE
+
+    SCIENCE
+
+    Lieutenent Commander Doldar - CSO
 
 
-MEDICAL
+    MEDICAL
 
-Lieutent Abbie Hence - CMO
+    Lieutent Abbie Hence - CMO
 
 CIVILIAN
 
