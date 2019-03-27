@@ -390,3 +390,7 @@ p {
   width: 60%;
   margin: auto;
 }
+
+img {
+    width: 500px;
+}
