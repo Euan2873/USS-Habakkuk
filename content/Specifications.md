@@ -25,5 +25,6 @@ Lieutent Abbie Hence - CMO
 # CIVILIAN
 Zuto Teseg - Stargazer bar tender
 
+<br /> 
 ![Bartender](/assets/images/Zuto_Teseg.png)
 
