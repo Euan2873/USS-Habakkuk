@@ -9,13 +9,13 @@
 </head>
 <body>
     <header class="header">
-        <a href="#">
+        <a href="/">
             Home
         </a>
-        <a href="#">
+        <a href="/specifications">
             Specifications
         </a>
-        <a href="#">
+        <a href="/episodes">
             Episodes
         </a>
     </header>
