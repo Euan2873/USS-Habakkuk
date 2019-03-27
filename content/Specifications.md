@@ -1,37 +1,27 @@
-#COMMAND
+# COMMAND
+## COMMAND
+Captain Hercules Henry - Executive officer
+Commander Feezal - First officer
 
-    COMMAND
+## CONN
+Lieutenent Junior Grade Ziara Rrareth - CHO
 
-    Captain Hercules Henry - Executive officer
-    Commander Feezal - First officer
+# OPERATIONS
+## TACTICAL/SECURITY
+Lieutent Okel Th'akyllith - CTO
 
-    CONN
-    Lieutenent Junior Grade Ziara Rrareth - CHO
+## ENGINEERING
 
-#OPERATIONS
+Chief Petty officer Arlin Chell - CEO
+Ensign Euan Buchanan - COO
 
-    TACTICAL/SECURITY
+# SCIENCE
+## SCIENCE
+Lieutenent Commander Doldar - CSO
 
-    Lieutent Okel Th'akyllith - CTO
+## MEDICAL
+Lieutent Abbie Hence - CMO
 
-
-    ENGINEERING
-
-    Chief Petty officer Arlin Chell - CEO
-    Ensign Euan Buchanan - COO
-
-#SCIENCE
-
-    SCIENCE
-
-    Lieutenent Commander Doldar - CSO
-
-
-    MEDICAL
-
-    Lieutent Abbie Hence - CMO
-
-CIVILIAN
-
+# CIVILIAN
 Zuto Teseg - Stargazer bar tender
 
