@@ -3,7 +3,7 @@
 Captain Hercules Henry - Executive officer
 
 <br />
-![Captain](/assets/images/Captain henry.jpg)
+![Captain](/assets/images/Captain_Henry.jpg)
 
 Commander Feezal - First officer
 
