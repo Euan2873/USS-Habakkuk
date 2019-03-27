@@ -13,10 +13,10 @@
             Home
         </a>
         <a href="#">
-            Page 1
+            Specifications
         </a>
         <a href="#">
-            Page 2
+            Episodes
         </a>
     </header>
 
