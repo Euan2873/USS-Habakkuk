@@ -393,5 +393,7 @@ p {
 
 img {
     width: 200px;
-   height: 200px;
+    /* height: 200px; Technically, we don't need a height . */
+   margin-top: 15px;
+   margin-bottom: 15px;
 }
