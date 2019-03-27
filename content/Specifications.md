@@ -1,3 +1,7 @@
+---
+title: Specifications
+---
+
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
