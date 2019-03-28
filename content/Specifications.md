@@ -37,7 +37,7 @@ Lieutenent Commander Doldar - CSO
 ![Science officer](/assets/images/Doldar.png)
 
 #### MEDICAL
-Lieutent Abbie Hence - CMO
+Lieutent Junior Grade Abbie Hence - CMO
 
 # CIVILIAN
 Zuto Teseg - Stargazer bar tender
