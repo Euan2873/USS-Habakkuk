@@ -22,7 +22,7 @@ Lieutent Okel Th'akyllith - CTO
 
 #### ENGINEERING
 
-Chief Petty officer Arlin Chell - CEO
+Chief Petty Arlin Chell - CEO
 
 Ensign Euan Buchanan - COO
 
