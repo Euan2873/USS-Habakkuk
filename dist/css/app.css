@@ -386,9 +386,11 @@ p {
   text-decoration: none;
 }
 
-.container {
-  width: 60%;
-  margin: auto;
+@media (min-width: 766px) {
+  .container {
+      width: 60%;
+      margin: auto;
+   }
 }
 
 img {
