@@ -1,7 +1,8 @@
 ---
 title: Specifications
 ---
-<div style="background-color:red">
+<div style=class="command">
+
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
