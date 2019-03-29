@@ -30,6 +30,9 @@ Lieutent Okel Th'akyllith - CTO
 Chief Petty Arlin Chell - CEO
 
 Ensign Euan Buchanan - COO
+<br />
+![Operations](/assets/images/Ensign-Buchanan.png
+)
 
 # SCIENCE
 #### SCIENCE
