@@ -8,9 +8,9 @@ Captain Hercules Henry - Executive officer
 <br />
 ![Captain](/assets/images/Captain_Henry.jpg)
 
-Commander T'sek - First officer
+Commander Dosru Reson - First Officer
 <br />
-![XO](/assets/images/T'sek.png)
+![XO](/assets/images/Dosru-Reson.png)
 
 #### CONN
 Lieutenent Junior Grade Ziara Rrareth - CHO
