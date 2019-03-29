@@ -42,7 +42,7 @@ Lieutent Junior Grade Abbie Hence - CMO
 
 Lieutenent Commander Ezri Dax - SC
 <br />
-![Councilor](/assets/images/Ezri dax.jpg)
+![Councilor](/assets/images/Ezri-dax.jpg)
 
 
 # CIVILIAN
