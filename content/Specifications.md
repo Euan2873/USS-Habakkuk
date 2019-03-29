@@ -1,7 +1,7 @@
 ---
 title: Specifications
 ---
-
+<div style="background-color:red">
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
@@ -15,6 +15,7 @@ Lieutenent Junior Grade Ziara Rrareth - CHO
 <br />
 ![Conn](/assets/images/Ziara.png)
 
+</div>
 
 # OPERATIONS
 #### TACTICAL/SECURITY
