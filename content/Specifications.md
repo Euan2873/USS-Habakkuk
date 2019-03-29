@@ -2,7 +2,7 @@
 title: Specifications
 ---
 
-<span class="commands">
+<span class="commands" markdown="1">
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
@@ -10,7 +10,6 @@ Captain Hercules Henry - Executive officer
 ![Captain](/assets/images/Captain_Henry.jpg)
 
 Commander Feezal - First officer
-
 </span>
 
 #### CONN
