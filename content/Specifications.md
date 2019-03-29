@@ -1,7 +1,6 @@
 ---
 title: Specifications
 ---
-<div style=class="command">
 
 # COMMAND
 #### COMMAND
@@ -16,7 +15,6 @@ Lieutenent Junior Grade Ziara Rrareth - CHO
 <br />
 ![Conn](/assets/images/Ziara.png)
 
-</div>
 
 # OPERATIONS
 #### TACTICAL/SECURITY
