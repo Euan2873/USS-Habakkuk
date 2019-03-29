@@ -2,7 +2,7 @@
 title: Specifications
 ---
 
-<div class="commands">
+<span class="commands">
 # COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
@@ -11,7 +11,7 @@ Captain Hercules Henry - Executive officer
 
 Commander Feezal - First officer
 
-</div>
+</span>
 
 #### CONN
 Lieutenent Junior Grade Ziara Rrareth - CHO
