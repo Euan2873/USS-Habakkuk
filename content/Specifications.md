@@ -15,7 +15,6 @@ Lieutenent Junior Grade Ziara Rrareth - CHO
 <br />
 ![Conn](/assets/images/Ziara.png)
 
-
 # OPERATIONS
 #### TACTICAL/SECURITY
 Lieutent Okel Th'akyllith - CTO
