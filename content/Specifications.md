@@ -8,7 +8,7 @@ title: Specifications
 Captain Hercules Henry - Executive officer
 <br />
 ![Captain](/assets/images/Captain_Henry.jpg)
-
+<br />
 Commander Feezal - First officer
 </span>
 
