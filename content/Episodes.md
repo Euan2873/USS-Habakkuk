@@ -7,7 +7,7 @@
 
 <body>
   <a href="/">
-            episode1
+            Episode1
         </a>
 </body>
 
