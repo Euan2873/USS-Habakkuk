@@ -1,4 +1,3 @@
-<!DOCTYPEhtml>
 <html>
 
 <title>
