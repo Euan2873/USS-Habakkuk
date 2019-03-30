@@ -2,7 +2,7 @@
 title: Specifications
 ---
 
-# COMMAND
+## COMMAND
 #### COMMAND
 Captain Hercules Henry - Executive officer
 <br />
@@ -17,7 +17,7 @@ Lieutenent Junior Grade Ziara Rrareth - CHO
 <br />
 ![Conn](/assets/images/Ziara.png)
 
-# OPERATIONS
+## OPERATIONS
 #### TACTICAL/SECURITY
 Lieutent Okel Th'akyllith - CTO
 <br />
@@ -35,7 +35,7 @@ Ensign Euan Buchanan - COO
 ![Operations](/assets/images/Ensign-Buchanan.png
 )
 
-# SCIENCE
+## SCIENCE
 #### SCIENCE
 Lieutenent Commander Doldar - CSO
 <br />
@@ -49,7 +49,7 @@ Lieutenent Commander Ezri Dax - SC
 ![Councilor](/assets/images/Ezri-dax.jpg)
 
 
-# CIVILIAN
+## CIVILIAN
 Zuto Teseg - Stargazer bar tender
 <br /> 
 ![Bartender](/assets/images/Zuto_Teseg.png)
