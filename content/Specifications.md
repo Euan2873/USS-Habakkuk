@@ -21,13 +21,14 @@ Lieutenent Junior Grade Ziara Rrareth - CHO
 #### TACTICAL/SECURITY
 Lieutent Okel Th'akyllith - CTO
 <br />
-
 ![Tactical](/assets/images/Okel.jpg)
 
 
 #### ENGINEERING
 
-Chief Petty Arlin Chell - CEO
+Lieutenent Sovin - CEO
+<br />
+![Engineer](/assets/images/Sovin.png)
 
 Ensign Euan Buchanan - COO
 <br />
