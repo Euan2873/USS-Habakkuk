@@ -312,4 +312,88 @@ Okel is shocked by the hug. But relaxes and hugs her back, though not as enthusi
 
 "Yhea, I was kind of expecting him to tell science to do it. But I don't have a read for how he wants to run the ship yet. I wonder if that will continue when my uncle joins us." Ziara said, she noticed the weapon but didn't comment on it. She didn't carry personally, but she knew people who did.
 
+#### Chapter 6
+
+Once the ship was safely docked and secured, Ziara left an ensign on watch and headed down to engineering where she knew Chell probably was. She managed to catch Chell as they were walking without anything important in their hands. Ziara launched herself towards her old friend. The tiny Caitian half tackle half hugged the hybrid. "Arlin! It's so good to see you. I knew you were in this region of space and wanted to look you up once I got settled, but I never expected to get assigned to your ship. This is soo exciting." She quickly enthused as she hugged Arlin.
+
+Chell gave Ziara a firm hug back. "Well that is kinda my doing. Was going to be reassigned to DS9 until I had a slight issue. You know how I tend to let my mouth run at times."
+
+Ziara smirked, "That I do. How many times have I had to post bail so that we could work on Betty before a meet?" Ziara teased gently.
+
+"Hey, I always pay you back." Chell gave Ziara a slight punch to the shoulder. "By the way how is the old girl? Running smooth?"
+
+"Like you wouldn't believe. I flew her here and made a stop in the badlands. I set a record for the dash, but no one was there to see. If I can squeeze a few days off next time they hold it, I think I could win, and perhaps break some records with a bit of luck. You want to see what I've done with her since last time?"
+
+"I better if ya made any adjustments to the plasma flow regulation. You always seem to mess that up."
+
+"How am I supposed to tune her if I can't touch the plasma flow regulation?" Ziara with a happy purr as she led Arlin towards the shuttle bay and her ship.
+
+Chell started to follow behind before running back to grab a toolkit. As they caught back up to Ziara Chell laughed a little. "You can tune Betty up as long as you don't ramp it up to high. Do that without compensating and you can have a plasma cascade rupture. I don't want to have to replace the entire eps system again."
+
+"If I don't ramp it up, I miss the high end. The EPS system can generally handle the fluctuations. It's only broken twice..." Ziara said, and then under her breath, "since I went to the academy." she added.
+
+Chell rolled their eyes.
+
+"Besides, I heard that Uuthreep recently put out some new bioneural gel packs that should be able to balance the load better, I've been dying to try them, but their soooo expensive and I haven't had the time to race. But once we win a few, I'd like to try them." Ziara said as they entered the huge shuttle bay. Tucked away in a corner was the familiar sleek black shape of Black Betty.
+
+Chell spotted the familiar shuttle right away. Heading straight over Chell ran a hand along the side of Betty. "Is that a new scratch?"
+
+"Just a small one." Ziara said, despite the fact it could be seen from half way across the shuttlebay and was clearly deep. Not deep enough to breach the inside, but enough to cause concern. "I didn't dodge an asteroid in the denorious belt quick enough and it scratched the paint. I was planning to fix it after I landed, but well, we've had an exciting day.
+
+"Well we shall have to take care of that once I get done fixing up the Habakkuk's sensors."
+
+"Yhea, I've got to grab one of your crews and get to work on those thrusters. Docking was a pain without them, and we're a lot less manoeuvrable."
+
+"So much to fix for our first run. Hope that doesn't become the norm." Chell glanced over at Ziara. Pointing at her pips Chell spoke up with a somewhat serious tone. "So, when'd that happen. Gonna have to get used to calling you sir."
+
+"A couple of weeks ago, I came straight here from the Academy. CPO might outrank cadet, but they don't out rank a lieutenant." She grinned at Arlin. "Got the extra bump from flying with Nova Squadron, which is why I haven't made nearly as many changes as I'd like over the last few years. She's working without the latest tech, probably can still outrun every ship in the system though."
+
+"That's good to hear. Hate to think all that work went to waste." Chell opened the shuttles hatch and made a gesture toward the inside. "So, shall we begin checking out the damage now or later?"
+
+"We can look now, but I pushed her pretty hard getting here and playing around on the pit stops along the way. She's not a hanger queen, but pretty much everything needs a once over, and I have a new set of coils I'd like to install. I haven't even had time to unpack yet. Most of my stuff is still in her." Ziara explained as they entered the Cargo bay of the Betty. It was crowded with boxes filled with parts and Ziara's things. There were a few panels that were out of place, showing Ziara's clean but not extraordinary style of engineering. She was good at maintenance, and the Black Betty was always a work in progress.
+
+"Well then I shall give her a quick glance to see what needs work sooner rather than later." Chell started a full scan of the shuttle systems before turning to look at the boxes. "After that I'll let you unpack while I go check how my people are doing with the ships repairs. Only left 'em for a moment so I can gauge how they do on their own."
+
+Ziara grinned, "Right. Make sure they can work without you looking over their shoulder. I'll get you my systems readout." Ziara said in the growling purr that she used when she was off duty. When they moved into the small middle living area, it was everything two people needed for living in a shuttle like this for long trips. The replicator was a bit larger and industrial grade, designed for making ship parts as well as food for the crew. The second bunk was filled with junk, indicating Ziara had flown here on her own.
+
+Chell eyed the bunk before turning back to Ziara. "Thought you Starfleet officers were supposed to be tidy."
+
+"I am tidier, when I've got a passenger. But there wasn't anyone headed out this way that was cute enough and wanted to ride with me. I almost got this cute Trill science officer, but she shipped out before I could ask her."
+
+"Sounds about right." Chell checked on the scan. With a quick glance they noticed the shuttle would need a few new parts, but mainly just needed some minor maintenance. "Well seems you kept this thing in better shape than last time. Shall get to work on this in a bit. Duty first though. Gotta make sure the departent hasn't fallen to pieces. After we can grab a raktagino and get Betty running right again." Chell gave Ziara a wink before heading back out the shuttle. "Oh sorry. Permission to disembark sir?"
+
+Chell rubbed Ziara back as they hugged in a comforting manor. "That it has." When they finally released the hug Chell made toward Engineering before turning back to wave back to Ziara and Betty.
+
+#### Chapter 7
+
+Captain Henry was sitting at the desk in his ready room looking over the new senior staff's personal files.
+
+He put the files down then picked up his antique copy of Robert’s Rules of Order and began reading through it for what must have been the eightieth time.
+
+Hercules was a man of etiquette. It was like a language to him, one easier to master than foreign tongues. Every culture had etiquette, defined in its own way, subtle at times, sometimes more obvious.
+
+He studied cultures from an etiquette standpoint. Even blind and deaf members of a society, the sightless and speechless, could pick up on nonverbal clues and integrate into societies. On many occasions, he would be symbolically blind and deaf on a first contact mission. The ability to pick up nuances in behavior, to integrate into an alien culture, could mean the difference between life and death.
+
+As the captain studied his rules of order, he heard the door chime.
+
+“Enter.”
+
+"Commander Dosru Reson reporting for duty sir" she stands tall at attention
+
+“Welcome, Commander. So, tell me a little bit about yourself. We will be spending a lot of time together it seems.”
+"Newly promoted commander sir, pleasure to be here" the commander looked at the captain directly "If i may ask sir, what is our mission profile"
+
+"The classic - seek out new worlds, new civilizations. Boldly go where no one has gone before. Very exciting indeed. Any recommendations what direction we should take once we enter the Gamma Quadrant? Should we go left, right, up, or down?" he joked.
+
+"Sir i am sure you know that there is no up or down in space"
+"Joke much where you from?"
+
+"Can't two people joke captain" Dorsu said and smiled
+
+Hercules stood. "What say we head to the Stargazer Pub? I haven't quite had the chance to give it a proper dedication."
+
+"Sounds good captain"
+
+<br />
+![Bridge](/assets/images/Bridge.jpg)
 
