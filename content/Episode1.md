@@ -395,5 +395,54 @@ Hercules stood. "What say we head to the Stargazer Pub? I haven't quite had the 
 "Sounds good captain"
 
 <br />
-![Bridge](/assets/images/Bridge.jpg)
+![Ten-Forward](/assets/images/ten-forward.jpg)
+
+The captain approached the bar. "So, Dosru. What's your poison of choice?"
+
+The commander looked at the bartender and raised her hand "A diet coke please"
+
+Hercules was perplexed. " 'Diet coke'. Never heard of it. Where's it from?"
+
+"It is an ancient earth drink, i have been partial of it since i was at the academy"
+
+"Okay. Let's give it a try. Make that two," the captain ordered.
+
+The bartender walked over with two caramel coloured drinks "Here you go" he said as he put them down on the table.
+
+Hercules took a sip and cringed. "Oh, my. You have quite the sweet tooth I take it."
+
+"So, sir, what question's do you have" she took a drink "I believe that for us to work together we must trust each other completely"
+
+"Agreed." Hercules took a moment to think about it. "What is the greatest challenge you have ever faced as a Starfleet officer?"
+
+"Okay" she paused "When i was on my first commission, a helm officer, i was charged with treason" she took another drink "I was exonerated but it was the greatest challenge that i have faced"
+
+"Treason? What were the charges?"
+
+"I was framed by the romulans, they made Starfleet think that i had leaked Intel on the defiant class starship." she turned around and looked out of the window "The charges were dropped when a romulan stood up for me and gave evidence that i didn't leak the Intel"
+
+"Wow. A Romulan. You have some interesting friends. Who was this Romulan?"
+
+"I never found out, all i know is that they have some association with starfleet" she said
+
+"Hmm. So, I read your file. But tell me about your skills. What were your focuses at the Academy?"
+
+"I always had an interest in the Judge advocate office, that interest became a bit stronger after the incident"
+
+"You must have more skills than that? I can't see them giving me a first officer with one area of specialty."
+
+"I am an expert in helm operations, graduated top of my class" she smiled "i can do every move in the Starfleet manual"
+
+"Even the Riker manoeuvre?"
+
+"Specifically, the Riker manoeuvre" she took a big gulp of her drink "so captain, what was your original position"
+
+Hercules laughed at the question. "Disarming leftover ordinance from the war. Photon torpedoes lodged in the side of vessels that never went off; defunct space mines; cleaning out biological and chemical weapons depots. Led teams into some scary situations. Taught me to be calm under stress."
+
+Dorsu paused "I bet that was fun" she smiled "so how are the other senior officers"
+
+"We're all getting to know each other. In fact, with that question, I think its time for a senior staff meeting." He stood then gulped down the rest of his Diet Coke and cringed again. "Oof. I will never get use to that." He exited the Stargazer Pub with his new first officer in tow.
+
+
+
 
