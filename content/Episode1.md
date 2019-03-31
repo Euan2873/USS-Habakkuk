@@ -443,6 +443,40 @@ Dorsu paused "I bet that was fun" she smiled "so how are the other senior office
 
 "We're all getting to know each other. In fact, with that question, I think its time for a senior staff meeting." He stood then gulped down the rest of his Diet Coke and cringed again. "Oof. I will never get use to that." He exited the Stargazer Pub with his new first officer in tow.
 
+<br />
+![conference](/assets/images/conference-room-0.2.png	)
+
+Okel sits in the conference room reviewing personnel records on his pad. He wished he’d had more time to visit with each member of security, but some things could not be helped.
+
+Ziara bounded into the room energetically, with a padd in her hand. She settled in next to Okel "So you getting a good sense of who you got? I think I'm starting too, but I want to put them through their paces, perhaps a race through the Denorious belt if we stay here at DS9 for long enough. Everyone's new to the ship so I want to set in good patterns down. We're going to have the smoothest running shuttle bay in the sector if I have anything to say about it."
+
+“At ease, Lieutenant,” Captain Henry said. “And please take your seat.” He waited for the Caitian to settle in then began. “Glad to have us all gathered in one place. I’m sure you have all been filled in on our mission perimeters. It’s the dream of every Starfleet cadet to get the legendary five-year mission. So, we will all be living the Dream. Exactly what course to chart once we pass through that wormhole into the Gamma Quadrant is now a matter of discussion. I, of course, suggest first star to the right and straight on until morning. But I would appreciate hearing from all of you on the matter. Opinions? Ideas?”
+
+“And please let’s go around the table, Introduce yourselves. Name. Rank. Position. Then your idea. One minute a piece. We will start to my left with the round Ensign.”
+
+"Ensign Euan Buchanan, chief of operations, i believe we should steer clear of dominion territory" he smiled at the captain "But given how the ship took on the cardassian's i think we could take them"
+
+Ezri looked at all the senior officer's " I am Ezri Dax, lieutenant commander stationed on deep space nine before this, I am just happy to be here, don't really mind where we go"
+
+"Lieutenant Sovin sir. I apologize for not being able to take my station when you came aboard. I was still recovering in sickbay. I shall keep this ship running as efficient as possible on the journey."
+
+Doldar, a bit jittery from the cup of raktajino he had earlier. He spoke with a breathy voice, "Doldar. Lt. Commander. Chief Science Officer. I would love to get a deep scan of the interior of the wormhole."(edited)
+
+"Lieutenant Junior Grade, Ziara Rrareth. Chief . What some of you might not know is that before the war, I was junior assistant helmsman on a Caitian trader that visited the Gamma Quadrant. It's been suspected that the Idran Terminus is on the edge of Dominion space. I know that during my visits, I never heard of them. This suggests that by heading away from core dominion space we are more likely to encounter species that are not under the control of the Dominion."
+
+“That sounds fun,” the captain said. “Can you tell me more about this Idran Terminus”
+
+"Aye, Sir. The Idran Terminus of the Bajoran wormhole is so named because it is 4.7 light years away from the Idran system, which consists of three stars. It was a vital navigational marker when the Gamma quadrent was first explored. It has no class M planets however, there was a small trading station there that was destroyed during the war."
+
+“Lieutenant Okel Th’akyllith. Chief of Security. I honestly don’t have any opinions on course sir. I would like to institute some cross training with security in other departments.”
+
+“We will get to that. I appreciate your enthusiasm, Mr. Okel, as much as I appreciate your actions during our first skirmish against the Cardassians.” The XO stood up "I am commander Dorsu Reson trill" she waved at them "I hope to get to know you all" she sat back down.
+
+“It sounds like no one here has a definite opinion about what to do.” Hercules nodded. “Hence, we will pass through the wormhole. Once through, we will set a heading to the farthest reach of Federation star charts. I want to push this ship for a good trial run too. Get us far out. I will be authorizing us to travel at warp 9.25 for a two-week period. Yes. I know we will pass a lot along the way. We can drop sensor buoys every few hundred light years. But I want us really out there seeing things no one in the Federation has ever seen before. Get your departments prepped and ready. I want us on our way in eight hours. Dismissed.”
+
+#### END EPISODE
+
+
 
 
 
