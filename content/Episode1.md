@@ -233,3 +233,83 @@ Commander Feezal turned to the captain "Your order's sir"
 The large ship moved away from the wounded Cardassian ship, righting it's self-back to the standard orientation after her manoeuvres had put them off tilt a bit. The wormhole grew out of nothing and into the massive rift. Ziara was awed by it every time she saw it since she had been a little kid on the Bridge of the Sundowner. The Galaxy class ship slid through it and back towards the alpha quadrant.
 
 #### Chapter 3
+
+Lieutenant commander Ezri Dax was sitting in General Kira’s office.
+
+“I really don’t know what to say general” Ezri said as she stood up.
+
+Kira stood as well and moved to the other side of the desk “Just be glad, your will be on the front lines in the gamma quadrant, exploring strange new worlds”
+
+“I hope I can do the same duty to the USS Habakkuk as I have done on deep space nine”
+
+“It won’t be the same without you” Kira nodded “But that ship will need a good councillor”
+
+Just then a voice came over the comm “General, the USS Habakkuk has returned”
+
+“Acknowledged” Kira said. “Have captain Henry report to my office”
+
+#### Chapter 4
+
+Captain Henry walked into General Kira's office, the general was standing talking to Ezri but turned around to see the captain "Ah captain, thank you for joining us" she said.
+
+"Is everything wrapped up with the Orb? Mind giving me a little background? My crew is curious as to how we ended up in a firefight against Cardassians first thing out the gates."
+ 
+"These aren't your traditional Cardassians, they are part of an extremist group called the True Way" the General looked at the captain "There core value is that the occupation of bajor shouldn't have ended"
+ 
+"Some things never die," the captain remarked. "How further could my crew be of assistance?"
+ 
+"Starfleet has decided that you will be going on a five-year mission" Kira paused for a few seconds "To the gamma quadrant"
+ 
+"There have been some crew changes though, your first officer is being transferred and Starfleet is assigning you a new chief engineer, we have also made a decision about your ship's councillor"
+ 
+"Wait? My chief engineer? I just picked her up out of the brig."
+ 
+"Yeah, Starfleet didn’t want a enlisted officer on this mission, and Ezri will be your councillor"
+ 
+Hercules looked at the staff presented on the PADD. “Aw. Buchanan is so cute. What is he? All of 16 years old? and Ezri. It will be an honour to Serve with you.”
+ 
+"And you captain" Ezri said "I will see you on the ship" She said as she excited the room.
+ 
+"All of the information about your officers is available in their personal file"
+
+“So, can we talk about this five-year mission? What’s the objective?”
+
+"Exploration, captain, what else"
+
+“And what of the Dominion Threat? Sending a Galaxy class full of families into possible enemy territory. Or can we skip the dangerous parts?” He smiles coyly.
+
+"There is a peace treaty with the dominion, i doubt that they will risk that" the general responded
+
+“Well then. An open-ended mission to explore. I’m in.”
+
+#### Chapter 5
+
+Okel had spent time since they got back to deep space nine in his quarters, specifically unpacking and making sure his quarters were up to his standards.
+
+Okel looked at Vulcan Lirpa mounted on the wall next to his Nausicaan Tegolar Sword. He stood contemplating his past experiences in security.
+
+It had taken Ziara a bit to work out who Okel was, she hadn't recognized him immediately. However, she grinned as she pressed the chime to let him know she was there.
+
+Okel snapped out of his memories and called out “Come in. “
+
+Ziara stepped into his quarters. "Nice place," she commented as she stepped forward. "Nausicaan?" She asked nodding at the sword. She wanted to bear hug him but restrained herself for the surprise.
+
+“Yes.” I have made a study of martial arts and various weapons. It was useful as I was often assigned to security details on away missions.” He sighed. “Sometimes it was just a matter of appearing formidable.” He pauses on the verge of perhaps saying more.
+
+"You appeared pretty formidable about a decade ago." Ziara said as she admired his collection.
+
+He peered at her. “Rrareth family? I thought your name sounded familiar. So, did you escape your family by joining Starfleet as well?”
+
+"More like a vacation. My family has a history of service. but I didn't take it seriously until after we ran from those pirates in a 'commandeered' shuttle along the Beltane nine docks with you shooting back and me driving." Ziara said with a grin.
+
+Okel sat on his bed. “I have a confession. Those pirates were only after you because my family was in league with them sort of. After they sold you those goods, they pointed the pirates at you. That’s part of the reason I left. They just had too many shady dealings and were forming alliances with some Orion’s.” He pauses. “I left their ‘ship’ and went back to Andoria to bone up my studies to be able to apply to Starfleet.”
+
+"The past is the past. After that, I kind of realized why Starfleet is important. It's good to see you again." The tiny Caitian said with a purr as she wrapped the Andorian in a hug.
+
+Okel is shocked by the hug. But relaxes and hugs her back, though not as enthusiastically. Ziara May feel something under his uniform and realize he has an Ushaan-tor stabbed to his lower back.
+
+“Well I’m hoping to have to spend some time practicing sensor scans. It’s not something I’m used to doing and I don’t want to disappoint the captain.“
+
+"Yhea, I was kind of expecting him to tell science to do it. But I don't have a read for how he wants to run the ship yet. I wonder if that will continue when my uncle joins us." Ziara said, she noticed the weapon but didn't comment on it. She didn't carry personally, but she knew people who did.
+
+
