@@ -77,4 +77,59 @@ The force field lowered and Arlin walked out towards the captain.
 "Aye, sir."
 
 #### Chapter 1
+<br />
+![Bridge](/assets/images/Bridge.jpg)
 
+Captain Henry and Chief Petty Officer Chell walked onto the bridge of the new galaxy class refit, the USS Habakkuk. They could see all of their senior staff on the bridge at their stations, the first officer, Commander Feezal a denobulan female was sitting in the captain's chair. "Make sure the EPS grid is calibrated correctly" .At ops was ensign Buchanan, this was his first posting "Yes sir". The commander turned around to look at tactical and saw the captain and shot out of her seat "Captain on the bridge" she said and every officer on the bridge stood at attention.
+
+Ziara bolted out of her chair, her salute crisp and precise. Her attention stance was perfect as was her uniform. She was used to formal settings from her time with Nova Squadron. The Caitian was short, standing only four foot nine inches high and was thin. She was short by Caitian standards and had been the runt of her litter. Her black stripes on white fur made her resemble a white tiger. She cut her hair short in what was, for a Caitian, a very boyish way. She smiled ever so slightly at finally meeting her new captain.
+
+Lieutenant Th'akyllith looked up from tactical. He snaps to attention eyes on the Captain. His antenna twitch and the CPO Chell's nonchalant attitude. 'Ziara' He thinks. 'I seem to remember that name from the past. I wonder if it is a common name for a Caitian.' His eyes never waver from the captain.
+
+“At ease.” The captain sat in his chair. “Ops. Status report?”
+
+Ziara sqeed inside, and soon as the Captain said 'at ease' she relaxed enough to let the look of happiness at seeing one of her best friends cross her face. She gave Arlin a wink and a small wave as she sat back down. If she didn't have a report to give in a few moments, she would have dashed over and gave Arlin a flying bear hug.
+
+"DS9 has given us clearance to depart sir" Euan turned around "The warp plasma manifold is out of alignment by point zero five microns, but we can repair that on route"
+
+“I would hope so. Well, crew, we can get to know each other better once we get going. Helm detach all morning clamps. Move us away from the station at one-eighth impulse.”
+
+"Aye, detaching all mooring clamps. Moving us away from the station at one-eighth impulse." Ziara replied crisply. While she liked the accent personally, unlike many Caitian's she preferred her translators not use a purring 'accent' with her speech while on duty. Off duty, well she thought it was sexy, but not appropriate for work when you needed clarity.
+
+Ensign Buchanan pressed some buttons on his console "captain, orders have come through" he tapped a few more buttons "we are to head for Trillious prime on a simple shakedown cruise, once there we will receive orders by the Deep space nine and starfleet command"
+
+“Very good. Helm let’s move out! Warp factor 5.”
+
+Just as the captain said that, the entire bridge went red as the ship rocked. Euan fell out of chair, and the rest of the senior staff rocked and fell over.
+
+"Report!"
+
+The ops ensign stood and sat back in his chair "No damage captain, i don't think it hit us,", he tapped his console "from what I can tell they hit the station, we are being hailed by the general sir"
+
+Ziara stayed in her chair as the ship rocked, "Manuvering to safe distance." Ziara reported.
+
+“Hit the station?” Okel thinks. He raises shields and checks tactical readouts to see if enemies are near.
+
+“Tactical, Shields up and scan the area. Who fired? What kind of weapon? How much damage did they do?” Hercules got back into his chair. “Hail DS9!”
+
+"Shields up sir." Okel began to scan the area. "Scanning sir"
+
+ “Sir 3 Galor class warships are attacking the station. We were apparently caught in the crossfire and may not be the primary target.” Okel pauses and quietly says “They are sloppy with targeting. “
+ 
+ “We have to assist,” the captain said. “Lt Rrareth, attack pattern Omega Five. USS Habakkuk to Deep Space Nine, do you need assistance?” Hercules asked over an open Hail
+ 
+"Attack pattern Omega Five, Aye Aye." Ziara called out as the huge ship suddenly changed course, flipping over Deep Space Nine with an irreverent defiance of standard starship maneuvers. Under her touch the ship moved like a ballet dancer as it hurled back between the arms of Deep Space Nine towards the attacking Galors. She also took a moment to respond to the hail, "Deep Space Nine on screen." She reported as the general appeared.
+
+"Captain" the general said, she was covered in grease and the room had flames coming off the consoles. "We were attacked, we have lost upper pylon two and they have damaged our weapons systems, they are escaping through the wormhole, you can still track them." A crewman shouted from the background "They have taken the orb of contemplation" The general looked at the captain "Go get our orb back, i will have the defiant follow as soon as possible"
+
+Hercules heard the order. One side of him wanted to aid the station. But he knew what the orbs meant to the Bajoran people. The orbs were how their prophets communicated with them. They were religious artefacts of the utmost importance. “Helm break off our attack. Plot a course for the wormhole. Mr. Doldar, track and lock onto the ship that had the orb. Scan its engine signature before they hit the wormhole, so we don’t lose them on the other side.” The other side. Captain Henry felt a wave of excitement go through his torso; they were about to enter the Gamma Quadrant.
+
+The general disappeared of screen as the bridge got a call from engineering. "Engineering to bridge, that hit damaged an EPS conduit that links the sensors to the science console, sensors will be unreliable at best"
+
+Chell shrugged his head. "I step on board and then something needs fixing"
+
+Lt. Daphina, a Denobulan science officer was at the sensor station and attempted a scan to find the source of the attack, the results yielded nothing. She reported, "Sir,sensors are having difficulty pin-pointing the source of the attack."
+
+"Breaking off the attack and plotting a course for the wormhole, Aye Aye" Ziara said, her hands flying over the controls as she worked out the best options. She saw one of the options put them right behind the ship that had stolen the orb. The massive ship twisted onto its new course, "We are right on their tails, sir" she announced.
+
+#### Chapter 2
