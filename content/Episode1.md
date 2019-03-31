@@ -133,3 +133,103 @@ Lt. Daphina, a Denobulan science officer was at the sensor station and attempted
 "Breaking off the attack and plotting a course for the wormhole, Aye Aye" Ziara said, her hands flying over the controls as she worked out the best options. She saw one of the options put them right behind the ship that had stolen the orb. The massive ship twisted onto its new course, "We are right on their tails, sir" she announced.
 
 #### Chapter 2
+<br />
+![Wormhole](/assets/images/Wormhole.jpg)
+
+"Science, can you scan the vessel and determine the location of the orb?" the captain asked.
+
+Okel stands by at the tactical station. So far, he has not shown himself in a good light. He was pretty good when it was away missions but being moved up to tactical has shown him, he may need to put some efforts on changing how he functions in Starfleet. He wonders if he should offer to assist in the repairs of the sensors or maybe in assisting with the sensor sweep. Maybe he should wait to see if the captain wants him to fire on the fleeing ships.
+
+Chell went right to work orders repair teams to work on sensors. After that they opened the plate below the science console and started to bypass systems. "Captain I have bypassed the damaged systems on the sensors. Might not be regulation but it will do 'til we have a moment to stop."
+
+"Okel, scan those ships. Which one has the orb?" the captain asked.
+
+Okel quickly scans the ships. Thankfully things seem to be working.
+
+Hercules was happy to be right on their tail. Now, to catch the culprit that took the orb. "What do you have for me, Okel?"
+
+"I’ve identified the lead ship."
+
+"Target engines and fire!" Captain Henry said with a clenched fist.
+
+Okel swiftly targets engines and fires.
+
+The phasers shot out of the Habakkuk and hit the lead ship's engines and hull. As they did both other Galor class warbirds assumed an attack formation, with one breaking off to attack the ship from behind.
+
+The ship that didn't turn around, started to escort the lead ship off out the way
+
+"Shall I prepare an away team to board the lead ship" Feezal the denobulan first officer said.
+
+"Not yet. They don't seem softened up yet." Hercules grit his teeth. "Fire again, Mr. Okel. Target the lead ship's engines. Area attack. Take out the ship stupid enough to attack us too."
+
+"Aye sir." Okel targets the lead ship with area attack. He hit.
+
+The lead ship was damaged and stopped in position, the two other ships broke off their attack and went to warp. 
+
+“Captain main target disabled. The other ships are breaking off.” Okel reports. He wonders if the orb is still on board the target ship or if it was transported off.
+
+“The orb?” The captain asked.
+
+Okel ran a sensor scan.
+
+“Can we transport it off, Mr Okel?”
+
+Okel studied his readouts. “I’m afraid not captain. It has some form of shielding around it.
+
+"Hail them."
+
+"Hailing frequencies open. Aye Aye" Ziara said as she opened a frequency to the other ships.
+
+Once Hercules heard the hailing frequency chime signal, he said, "Enemy vessel, this is Captain Hercules Henry of the Federation starship Habakkuk. You will immediately cease your hostile actions and any attempt to escape our justice. Your actions constitute an act of war. We demand that you power down and prepare to be boarded. Failure to comply will be met with the harshest of responses."
+
+He turned to Okel, "Signal to DS9 that we have the enemy ship routed. Find out their status."
+
+The face of a cardassian appeared on screen "This is Gul Alket, our ships have gone for reinforcements, you don't have enough time to try any plans" he smiled "Your move federation"
+
+"I am five seconds away from having my ship target your ship's batteries, the ones that power the force field you have surrounded by the orb, which is considered stolen property," the captain said as he stood. He knew Cardassian etiquette. Negotiations were always done with a steel visage. "And if you force me to make such a move, I will also have you suffer the indignity of being transported aboard this ship along with your command crew. I will subsequently have you turned over to Bajoran authorities to spend the rest of your lives in one of their penal colonies. You have five seconds to comply. Any other response than complete capitulation with these demands will mean that this will be the last time you hear me speak until you see me testify at your criminal hearing. The countdown begins now."
+
+Ziara helpfully added a visual count down to their transmission.
+
+Before Okel can communicate with DS9 the exchange with the cardassian begins. He hits the mute button and says “Captain, while their shields are down what about transporting a transponder onto their hull? We could use a sensor package from a class 2 probe.” He then un mutes the transmission.
+
+Hercules didn't respond. He confidently watched the timer with a smug look on his face.
+
+Gul Alket just stared at the captain "Your starfleet, you would never do that"
+
+The timer said two seconds. The captain said over the open channel, "Tactical, target their batteries. Maximum phasers. Fire when the timer hits zero."
+
+Okel targets the engines.
+
+Ziara noticed the blinking red light that told her the thrusters were overheated. She wouldn’t' have expected that, but every ship had its quirks and she hadn't mastered the Habakkuk's yet. She muttered a prayer in Caitian to the ship as she figured out how to manoeuvre without them.
+
+Seeing the timer run out and getting the nod from the captain, Okel fires the phasers.
+
+Chell had a slight smirk about their face. They mumbled, "Serves 'em right." Then looked about to make sure no one heard.
+
+The phaser shot out of the banks and hit the ships starboard engine, hull plating the weapon systems as well.
+
+The cardassian on screen grunted "This isn't over captain Henry, we will meet again" he turned and faced one of his officers "Drop the force field, we can't wait for reinforcements"
+
+Captain Henry turned back to his chair, sat down, crossed his legs and smiled. “ Your reasonableness will be noted in our ship’s records, Gul. Chell lock onto the orb. Transport it over. And I suggest, Gul, the next time you and your friends choose to visit Deep Space 9 that you call ahead.”
+
+Chell gave the Captain a quick nod before starting to lock onto the orb.
+
+As he did so, Ziara maneuverer the ship deftly to put the ship on the best line for the transporter beam to follow.
+ 
+"Seems I'm having trouble locking on. Okel can you get a lock from your station?"
+
+Okel tries to use the tactical station to assist with the transporter lock.
+
+"If I didn't need to run a bypass earlier this wouldn't be a problem. The spoonheads are getting off easy." With the Tactical station linked up and target locked Chell began the transport sequence. "There we are."
+
+Commander Feezal turned to the captain "Your order's sir"
+
+"Let's head back to DS9," the captain said. "We will let the Cardassians deal with the failure of their attack squadron to achieve their goal. It will likely be way less merciful than a Bajoran tribunal. Helm, full impulse back to the wormhole."
+
+"Helm, you heard the captain" Feezal said
+
+"Setting course for Deep Space Nine. Aye Aye." Ziara said as she turned the big ship back towards the wormhole.
+
+The large ship moved away from the wounded Cardassian ship, righting it's self-back to the standard orientation after her manoeuvres had put them off tilt a bit. The wormhole grew out of nothing and into the massive rift. Ziara was awed by it every time she saw it since she had been a little kid on the Bridge of the Sundowner. The Galaxy class ship slid through it and back towards the alpha quadrant.
+
+#### Chapter 3
