@@ -478,7 +478,7 @@ Doldar, a bit jittery from the cup of raktajino he had earlier. He spoke with a 
 
 #### PDF Form
 <br />
-![PDF](/)
+![PDF](/Story-form-episode-1.pdf )
 
 
 
