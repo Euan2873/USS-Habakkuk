@@ -23,6 +23,9 @@ Lieutent Okel Th'akyllith - CTO
 <br />
 ![Tactical](/assets/images/Okel.jpg)
 
+Lieutenant Tonjot Zettu - Security officer - Bajoran
+
+
 
 #### ENGINEERING
 
