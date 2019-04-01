@@ -476,6 +476,10 @@ Doldar, a bit jittery from the cup of raktajino he had earlier. He spoke with a 
 
 #### END EPISODE
 
+#### PDF Form
+<br />
+![PDF](/)
+
 
 
 
