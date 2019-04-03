@@ -24,7 +24,7 @@ If you have a Markdown file called `penguin.md`. You will be able to access this
 
 ### The HTML
 
-If you want to fiddle around with the HTML, you can do so in the `resources/views` directory. Although, the files in there end in `.blade.php`, for the most part they are just plain HTML files. Ask me if you don't understand this part.
+If you want to fiddle around with the HTML, you can do so in the `views` directory. Although, the files in there end in `.blade.php`, for the most part they are just plain HTML files. Ask me if you don't understand this part.
 
 ### CSS and Javascript
 
