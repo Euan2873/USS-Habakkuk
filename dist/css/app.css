@@ -452,6 +452,8 @@ img {
 
 /*Euan CSS*/
 
-span.commands {
-   background-color: red;
+.command-red{
+   background-color:red;
 }
+ 
+
