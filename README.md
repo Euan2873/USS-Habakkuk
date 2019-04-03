@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e4d10bf-83fb-4c78-b9d7-21458559adfc/deploy-status)](https://app.netlify.com/sites/uss-habakkuk/deploys)
 
 ## How the website works
-So, the website is built using [Thunderbird](https://thunderbird.netlify.com/), a PHP static site generator. 
+So, the website is built using [Systatic](https://github.com/damcclean/Systatic), a PHP static site generator. 
 
 ### Your site content
 
@@ -32,7 +32,6 @@ The CSS and Javascript files for the site belong in the `dist` directory in thei
 
 ### Other stuff
 
-* Don't remove the `src` directory or everything will grind to a halt.
-* Don't remove the `composer.json`, `config.php`, `thunderbird`, `sample.env`, `local` or `.gitignore` files/folders or things will get messed up.
+* Don't remove the `composer.json`, `config.php`, `systatic`, `sample.env`, `storage` or `.gitignore` files/folders or things will get messed up.
 
 If you have any other questions, just ask me!
