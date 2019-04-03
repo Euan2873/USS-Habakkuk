@@ -4,7 +4,7 @@ title: Episode 1 - Shakedown
 
 #### Prologue
 <br />
-![Promenade](/assets/images/DS9-Promenade.jpg)
+![Promenade](/images/DS9-Promenade.jpg)
 
 Hercules Henry, the new Starfleet captain about to get given his commission stood looking along the promenade, Deep Space Nine was one of the most historical sites in federation history. The site where the dominion first attacked, where the Cardassians occupied Bajor and the site where the emissary used to be stationed. 
 
@@ -78,7 +78,7 @@ The force field lowered and Arlin walked out towards the captain.
 
 #### Chapter 1
 <br />
-![Bridge](/assets/images/Bridge.jpg)
+![Bridge](/images/Bridge.jpg)
 
 Captain Henry and Chief Petty Officer Chell walked onto the bridge of the new galaxy class refit, the USS Habakkuk. They could see all of their senior staff on the bridge at their stations, the first officer, Commander Feezal a denobulan female was sitting in the captain's chair. "Make sure the EPS grid is calibrated correctly" .At ops was ensign Buchanan, this was his first posting "Yes sir". The commander turned around to look at tactical and saw the captain and shot out of her seat "Captain on the bridge" she said and every officer on the bridge stood at attention.
 
@@ -134,7 +134,7 @@ Lt. Daphina, a Denobulan science officer was at the sensor station and attempted
 
 #### Chapter 2
 <br />
-![Wormhole](/assets/images/Wormhole.jpg)
+![Wormhole](/images/Wormhole.jpg)
 
 "Science, can you scan the vessel and determine the location of the orb?" the captain asked.
 
@@ -395,7 +395,7 @@ Hercules stood. "What say we head to the Stargazer Pub? I haven't quite had the 
 "Sounds good captain"
 
 <br />
-![Ten-Forward](/assets/images/ten-forward.jpg)
+![Ten-Forward](/images/ten-forward.jpg)
 
 The captain approached the bar. "So, Dosru. What's your poison of choice?"
 
@@ -444,7 +444,7 @@ Dorsu paused "I bet that was fun" she smiled "so how are the other senior office
 "We're all getting to know each other. In fact, with that question, I think its time for a senior staff meeting." He stood then gulped down the rest of his Diet Coke and cringed again. "Oof. I will never get use to that." He exited the Stargazer Pub with his new first officer in tow.
 
 <br />
-![conference](/assets/images/conference-room-0.2.png	)
+![conference](/images/conference-room-0.2.png	)
 
 Okel sits in the conference room reviewing personnel records on his pad. He wished he’d had more time to visit with each member of security, but some things could not be helped.
 
@@ -476,11 +476,7 @@ Doldar, a bit jittery from the cup of raktajino he had earlier. He spoke with a 
 
 #### END EPISODE
 
-#### PDF Form
-
-![PDF](/Story-form-episode-1.pdf )
-
-
+[PDF Download](/episode-01.pdf)
 
 
 
