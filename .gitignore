@@ -1,15 +1,12 @@
 vendor
-node_modules
 .DS_Store
 composer.lock
-package-lock.json
 
 dist/*.html
-mix-manifest.json
 .env
-local/*.*
-local/cache/*
-!local/cache/.gitkeep
-local/cache/*.log
+storage/*.*
+storage/cache/*
+!storage/cache/.gitkeep
+storage/cache/*.log
 .phpunit.result.cache
 LocalValetDriver.php
