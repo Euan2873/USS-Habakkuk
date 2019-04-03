@@ -417,7 +417,6 @@ img {
 
 @media(min-width: 766px) {
   .person {
-    flex-direction: row;
     background-color: #F5F5F5;
     border-radius: 10px;
     margin-bottom: 15px;
