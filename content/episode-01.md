@@ -6,7 +6,7 @@ title: Episode 1 - Shakedown
 <br />
 ![Promenade](/images/DS9-Promenade.jpg)
 
-Hercules Henry, the new Starfleet captain about to get given his commission stood looking along the promenade, Deep Space Nine was one of the most historical sites in federation history. The site where the dominion first attacked, where the Cardassians occupied Bajor and the site where the emissary used to be stationed. 
+Hercules Henry, the new Starfleet captain about to get given his commission stood looking along the promenade, Deep Space Nine was one of the most historical sites in federation history. The site where the dominion first attacked, where the Cardassians occupied Bajor and the site where the emissary used to stand. 
 
 This was his first time on DS9 and he was really excited, he stood and saw a trill with the science’s uniform and the Pips of a lieutenant commander ran over to him, “You must be captain Henry, it is a pleasure to meet you sir” she said with a smile on her face “I am Lieutenant commander Ezri dax, welcome to Deep Space Nine, General Kira is waiting on the operations deck” she motioned for him to walk with her “She is waiting with details about your ship”
 
