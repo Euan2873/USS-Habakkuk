@@ -1,5 +1,5 @@
 <header class="bg-black p-2 w-full">
-        <div class="container mx-auto flex flex-row items-center justify-between">
+        <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
             <a class="font-bold text-xl text-white hover:text-white no-underline" href="/">
                 {{ $config['siteName'] }}
             </a>
