@@ -19,14 +19,16 @@ Hercules tone went dry.
 
 “My former position was as an XO on a strategic and defense patrol vessel in the Gamma Quadrant. We were hunting down some Genzemi weapons dealers who had weaponized a virulent flowering weed. We were ambushed when they transported the blooming weeds aboard ship. We were barely able to contain the spread of the pollen before it took out half the crew, including the captain. I had to take command. We halted the toxin and I worked with the doctor to concoct a cure to treat the rest of us who were effected.” Hercules looked at Ezri. “Then we hunted down the Genzemi responsible and captured them.”
 
-Ezri's smile left her face, she was expecting something about him being a model officer "Well i am sure you can cope with whatever is thrown at you" she said as she entered the lift. 
+Ezri's smile left her face, she was expecting something about him being a model officer "Well i am sure you can cope with whatever is thrown at you" she said as she entered the turbolift. 
 
 As they entered Ezri spoke out "Ops" and as the lift left, they could hear someone shout "Quark"
 
 “Who is Quark?” 
 
 "It's a long story" Ezri responded. This had put the smile back on her face
-The lift arrived in ops and Hercules and Ezri both walked off, they heard shouting coming from the office "I told you i needed the report from the defient repairs on my desk" she yelled "Dismissed" the doors opened and two men in starfleet operations uniforms walked out.
+The lift arrived in ops and Hercules and Ezri both walked off, they heard shouting coming from the office 
+
+"I told you i needed the report from the defient repairs on my desk" she yelled "Dismissed" the doors opened and two men in starfleet operations uniforms walked out.
 
 Hercules looked at Ezri. "Bad time?"
 
