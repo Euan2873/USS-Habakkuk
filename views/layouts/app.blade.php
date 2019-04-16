@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>{{ $title }} - @siteName()</title>
+    <title>{{ $title }} - {{ $config['siteName'] }}</title>
     <link rel="stylesheet" href="/css/app.css">
 
     <meta charset="UTF-8">
