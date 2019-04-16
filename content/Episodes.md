@@ -1,6 +1,6 @@
 ---
 title: Episodes
-template: episodes
+view: episodes
 episodes:
     - 
         slug: /episode-01
