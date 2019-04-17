@@ -84,4 +84,18 @@ While in the turbo lift, Dorsu turned to Ziara "I was about to try out that holo
 
 "Okay, you and Arlin meet me there in an hour" she began to walk out of the turbo lift "Oh, and bring the schematics of that shuttle of yours, we can program her in and use her"
 
+#### Chapter 1
 
+After shift Okel goes to the ships pub. “Hello Tonjot.” Okel sits down. “Looks like the Habakkuk had a lot of personnel change at DS9. I’d like your thoughts on personnel and what we should be prepared to face.”
+
+Okel continues, “Since we are going to be out here on our own, I think we need to review every kind of security problem that has come up on ships in the last 10 years and have some sort of plan in place. It’s going to mean a lot of drills and a lot of training on the holodeck.”
+
+Tonjot took a sip of his drink "Okay sir, sounds like a good idea"
+
+Okel nods “Do you have any famous ships you’d like to review?”
+
+"Well there was the USS Defiant, they have had experience in the gamma quadrant which could be beneficial" Tonjot said
+
+“Very good,” Okel said. “How about you dig into that. Tomorrow we can meet at some time and review staff.” Okel excuses himself and heads to his room.
+
+#### Chapter 2
