@@ -99,3 +99,71 @@ Okel nods “Do you have any famous ships you’d like to review?”
 “Very good,” Okel said. “How about you dig into that. Tomorrow we can meet at some time and review staff.” Okel excuses himself and heads to his room.
 
 #### Chapter 2
+
+![Holodeck](/images/holodeck.jpg)
+
+Dorsu was standing outside holodeck two waiting on Ziara and Arlin. She tapped some buttons on the console "Computer activate program Reson-Gamma-Six"
+
+A few seconds later the computer said, "Program active, enter when ready"
+
+Ziara showed up practically bouncing off the walls. She handed Dorsu an information stick. "I went aheard and updated her stats with her current configuration as well as the configuration she had four years ago, just in case." She enthused.
+
+"Great" Dorsu said "Computer update program to use shuttle specifications just entered"
+
+"Program updated" the computer said
+
+Ziara bounded into the holodeck which was simulating the station that overlooked Nardau VII, a class D planet, where the Delta Orbital Circuit took place. "Just like I remember it!" She enthused. Standing before them was a sleek black runabout sized craft. "Come on, I'll show you around." Ziara said moving quickly towards the shuttle.
+
+Dorsu walked into the holodeck and then onto the shuttle "So the grand tour then"
+
+Ziara almost seemed to dance onto the shuttle. "Ok, this area here is the cargo compartment. It's a lot cleaner then it is in real life, because I'm carrying spare parts, trade goods, and the like. It's the perfect size for a courier. I even imported exactly how the wires are currently laid out on the Betty." She pulled back one of the panels to show her wiring. While it was neat and clean, it was very clearly hand placed, indicating that the simulation was incredibly close to the actual Black Betty.
+
+Chell walked into the holodeck and headed the simulated shuttle. With a knock on the open shuttle door Chell spoke up, "Hello hello. Seems holo-Betty is a lot cleaner. Still has the scratches though."
+
+"I just had the internal sensors do a new sweep. So, it should be identical in every way to the one down in shuttle bay, except for the cargo and stuff." Ziara explained as she welcomed Chell into the small cargo bay.
+
+When Chell spotted Dorsu they stood at attention out of reflex. "Sir. I didn't realize you'd be here."
+
+"At ease and who's idea did you think this was"
+
+Chell relaxed before looking toward Ziara. "Well I was told we might try Betty out in the holodeck sir. Not much more."
+
+Ziara gave a wide grin and rubbed the back of her head with her hand, "Sorry." Ziara said before moving into the next room. "Anyway, next is the crew cabin. It's small, but enough for two." She said, the room was small, with two bunks, a small table, and a large industrial replicator. A small replica of the Black Betty hung from the ceiling. "Part of the reason that it's so small is that we have a lot of extra power packed into her." Ziara explained, removing a panel to show the extra generation capability.
+
+"Okay then, where is my seat" Dosru said to Ziara.
+
+Ziara continued forward to the cockpit. As she passed the model shuttle, she touched it and said something in Caitian. Unlike most, it was thinner, the consoles being arranged front and back rather than side by side. Ziara slid into the front seat easily, it was clearly made for her small size. "Here is where we fly from. Typically, the front is configured for the pilot and the back for the engineer. I installed some heavy-duty springs in the joysticks so that you get that extra little bit of precision. If necessary, I can control the whole ship from the pilot seat, but it's a lot more hectic." Ziara explained.
+
+"Alrighty" Dosru said "If you are piloting and Arlin will be doing engineering, where do you want me"
+
+"Betty's designed for at most two people. Honestly, one person who knows what they’re doing. The auto-pilot is smart too. There's a small console in the back, but it's mostly meant for testing and such. Arlin knows what the Betty can do, so I'm going to put him back there. You don't, so you get the backseat. The default layout is all standard, but you can configure your preferences if you want. It's mostly meant for an engineer, but you can fly from there too. The front seat is mine, and... well it's kind of customized and not nearly as flexible." Ziara said motioning to the joysticks which were fixed in place. If the pilot was Ziara sized, it would be perfect. For those who weren't tiny little runts like the Caitian pilot, it would be at best cramped and uncomfortable.
+
+Chell laughed and spoke up. "Trust her there. Tried to fly once from the pilot’s seat. Nearly rammed into the station hanger."
+
+Just then the group heard a chirp "Commander Reson report to the bridge"
+
+Dosru sighed "Acknowledged, sorry i guess it’s up to you" she began to exit the shuttle "Computer arch". The arch appeared and she walked out "I'll try and catch up"
+
+Ziara nodded, "All right," then after the Commander left, she said to Chell, "Let's get a feel for the track." She suggested.
+
+Chell's eyes widened a bit. They grabbed hold of the console and planted feet fire. "Ok then.
+
+Ziara grinned at Chell's reaction and settled into the pilot's seat. "Well with her gone, at least you get a chance to strap in." She said as the ship took off
+
+Chell moved to strap in as quickly as possible. Once secured Chell looked at the shuttle's readouts. "Seems Holo-Betty is just like the real thing."
+
+A voice came over the intercom in the shuttle "You are cleared to depart" the voice said as the shuttle began to exit station.
+
+Ziara pulled the ship out of the shuttle bay. "So, we start here. There is a quick loop around the sun." Ziara said, firing up the engines, but not at maximum, and the ship hurtled towards the Star. They were just looking at the course rather than running it seriously. Ziara swung them around the sun and continued to the nebula. "Then we get a nice pea soup to fly through. Do you think we could calibrate the sensors for it?" She asked Chell as they passed through the nebula. "Then we run down and along this asteroid field, a bit thick, but nothing too difficult." She said, watching how the rocks moved in the asteroid field.
+
+Chell held on tight, not sure if Ziara might gun it. Getting a quick glance at the nebula they chuckled a bit. "Sensors will be a bit of an issue in that...soup. Sure, we'll handle it though."
+
+#### Chapter 3
+
+
+
+
+
+
+
+
