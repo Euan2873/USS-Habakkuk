@@ -2,7 +2,7 @@
 title: Episode 2 - Janeway Orbital
 ---
 
-#### Prologue
+### Prologue
 <br />
 ![Bridge](/images/ep2-deck-plan.png)
 
@@ -84,7 +84,7 @@ While in the turbo lift, Dorsu turned to Ziara "I was about to try out that holo
 
 "Okay, you and Arlin meet me there in an hour" she began to walk out of the turbo lift "Oh, and bring the schematics of that shuttle of yours, we can program her in and use her"
 
-#### Chapter 1
+### Chapter 1
 
 After shift Okel goes to the ships pub. “Hello Tonjot.” Okel sits down. “Looks like the Habakkuk had a lot of personnel change at DS9. I’d like your thoughts on personnel and what we should be prepared to face.”
 
@@ -98,7 +98,7 @@ Okel nods “Do you have any famous ships you’d like to review?”
 
 “Very good,” Okel said. “How about you dig into that. Tomorrow we can meet at some time and review staff.” Okel excuses himself and heads to his room.
 
-#### Chapter 2
+### Chapter 2
 
 ![Holodeck](/images/holodeck.jpg)
 
@@ -158,7 +158,7 @@ Ziara pulled the ship out of the shuttle bay. "So, we start here. There is a qui
 
 Chell held on tight, not sure if Ziara might gun it. Getting a quick glance at the nebula they chuckled a bit. "Sensors will be a bit of an issue in that...soup. Sure, we'll handle it though."
 
-#### Chapter 3
+### Chapter 3
 
 ![Stargazer](/images/ten-forward.jpg)
 
@@ -202,7 +202,7 @@ Euan walked into the life support control room, he saw an ensign and a specialis
 
 “Specialist Zh'vhinnar I need you to look into the primary nadion frequency coils” Euan said as he walked to the centre console as Zh'vhinnar nodded and walked out of a door on the upper level.
 
-#### Chapter 4
+### Chapter 4
 
 The shuttle, Black Betty was on the start line for the race, a voice came over the comm "Racers we have a late arrival, please stand by"
 
@@ -232,7 +232,7 @@ The torpedo shot from the lead ship and exploded as all the shuttles hurried off
 
 As they waited, Ziara flipped on the music, her personal mix of rock and roll that really got her into the mood flying a several ton chunk of metal at speeds unimaginable to her distant ancestors. Mighty Wings came on and when the torpedo exploded, Ziara's shuttle lept forward, accelerating towards the sun. She had timed her acceleration perfectly, leaping out into the lead of the pack of starships that raced downward into the gravity well. "Looks like we got the jump, now all we have to do is keep it. Modulate the shields and see how much we can cut off by diving into the corona. It's a bit risky but should cement our lead if we can pull it off."
 
-#### Chapter 5
+### Chapter 5
 
 "...with that said," the captain said as he finished updating Doldar with his concerns, "I think Ensign Buchanan could use a little help assertng himself with the botanical teams. Our algae-based life support system is a prototype. An extra set of eyes can't hurt." "Ah, yes. I heard about the prototype. Rest assured, Ensign Buchanan is in good hands." replied, Doldar. He thought about his reputation from his previous experiments and reassured the captain that he would be more cautious. "I'll make sure I won't singe any eyebrows." Doldar remembered a previous incident and muttered under his breath, "...or fur for that matter."
 
