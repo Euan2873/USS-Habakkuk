@@ -2,7 +2,7 @@
 title: Episode 1 - Shakedown
 ---
 
-#### Prologue
+### Prologue
 <br />
 ![Promenade](/images/DS9-Promenade.jpg)
 
@@ -78,7 +78,7 @@ The force field lowered and Arlin walked out towards the captain.
 "I think we should get you off this station and onto the Habakkuk before any other incidents, Chief. What do you say?"
 "Aye, sir."
 
-#### Chapter 1
+### Chapter 1
 <br />
 ![Bridge](/images/Bridge.jpg)
 
@@ -134,7 +134,7 @@ Lt. Daphina, a Denobulan science officer was at the sensor station and attempted
 
 "Breaking off the attack and plotting a course for the wormhole, Aye Aye" Ziara said, her hands flying over the controls as she worked out the best options. She saw one of the options put them right behind the ship that had stolen the orb. The massive ship twisted onto its new course, "We are right on their tails, sir" she announced.
 
-#### Chapter 2
+### Chapter 2
 <br />
 ![Wormhole](/images/Wormhole.jpg)
 
@@ -234,7 +234,7 @@ Commander Feezal turned to the captain "Your order's sir"
 
 The large ship moved away from the wounded Cardassian ship, righting it's self-back to the standard orientation after her manoeuvres had put them off tilt a bit. The wormhole grew out of nothing and into the massive rift. Ziara was awed by it every time she saw it since she had been a little kid on the Bridge of the Sundowner. The Galaxy class ship slid through it and back towards the alpha quadrant.
 
-#### Chapter 3
+### Chapter 3
 
 Lieutenant commander Ezri Dax was sitting in General Kira’s office.
 
@@ -250,7 +250,7 @@ Just then a voice came over the comm “General, the USS Habakkuk has returned�
 
 “Acknowledged” Kira said. “Have captain Henry report to my office”
 
-#### Chapter 4
+### Chapter 4
 
 Captain Henry walked into General Kira's office, the general was standing talking to Ezri but turned around to see the captain "Ah captain, thank you for joining us" she said.
 
@@ -284,7 +284,7 @@ Hercules looked at the staff presented on the PADD. “Aw. Buchanan is so cute. 
 
 “Well then. An open-ended mission to explore. I’m in.”
 
-#### Chapter 5
+### Chapter 5
 
 Okel had spent time since they got back to deep space nine in his quarters, specifically unpacking and making sure his quarters were up to his standards.
 
@@ -314,7 +314,7 @@ Okel is shocked by the hug. But relaxes and hugs her back, though not as enthusi
 
 "Yhea, I was kind of expecting him to tell science to do it. But I don't have a read for how he wants to run the ship yet. I wonder if that will continue when my uncle joins us." Ziara said, she noticed the weapon but didn't comment on it. She didn't carry personally, but she knew people who did.
 
-#### Chapter 6
+### Chapter 6
 
 Once the ship was safely docked and secured, Ziara left an ensign on watch and headed down to engineering where she knew Chell probably was. She managed to catch Chell as they were walking without anything important in their hands. Ziara launched herself towards her old friend. The tiny Caitian half tackle half hugged the hybrid. "Arlin! It's so good to see you. I knew you were in this region of space and wanted to look you up once I got settled, but I never expected to get assigned to your ship. This is soo exciting." She quickly enthused as she hugged Arlin.
 
@@ -366,7 +366,7 @@ Chell eyed the bunk before turning back to Ziara. "Thought you Starfleet officer
 
 Chell rubbed Ziara back as they hugged in a comforting manor. "That it has." When they finally released the hug Chell made toward Engineering before turning back to wave back to Ziara and Betty.
 
-#### Chapter 7
+### Chapter 7
 
 Captain Henry was sitting at the desk in his ready room looking over the new senior staff's personal files.
 
@@ -476,7 +476,7 @@ Doldar, a bit jittery from the cup of raktajino he had earlier. He spoke with a 
 
 “It sounds like no one here has a definite opinion about what to do.” Hercules nodded. “Hence, we will pass through the wormhole. Once through, we will set a heading to the farthest reach of Federation star charts. I want to push this ship for a good trial run too. Get us far out. I will be authorizing us to travel at warp 9.25 for a two-week period. Yes. I know we will pass a lot along the way. We can drop sensor buoys every few hundred light years. But I want us really out there seeing things no one in the Federation has ever seen before. Get your departments prepped and ready. I want us on our way in eight hours. Dismissed.”
 
-#### END EPISODE
+### END EPISODE
 
 [PDF Download](/episode-01.pdf)
 
