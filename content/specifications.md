@@ -43,7 +43,7 @@ science:
     description: CSO
 - title: Medical
   people: 
-  - image: /images/
+  - image: /images/Dr-berham.png
     name: lt,Cmdr, Dr Miles Berham
     description: CMO
   - image: https://ui-avatars.com/api/?name=Abbie+Hence
