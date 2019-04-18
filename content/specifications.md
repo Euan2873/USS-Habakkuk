@@ -43,9 +43,12 @@ science:
     description: CSO
 - title: Medical
   people: 
+  - image: /images/
+    name: lt,Cmdr, Dr Miles Berham
+    description: CMO
   - image: https://ui-avatars.com/api/?name=Abbie+Hence
     name: Lieutent Junior Grade Abbie Hence
-    description: CMO
+    description: Head Nurse
   - image: /images/Ezri-dax.jpg
     name: Lieutenent Commander Ezri Dax
     description: SC
