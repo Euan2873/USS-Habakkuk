@@ -280,3 +280,24 @@ Doldar, "Aye, captain."
 
 Hercules turned back to his desk as he studied the padd.
 
+### Chapter 6
+
+Euan was at the upper level of the life support control room with Ensign Dinalar, Specialist Zh'vhinnar was at the lower console when the captain walked in, "Captain on deck" Zh'vhinnar said as he stood at attention.
+
+"At ease. Just checking on our Ops Manager' progress. What do you have for me, Mr. Buchanan?"
+
+"Everything seems to be working fine" Euan said
+
+Zh'vhinnar looked up "Sir, spore tank one has a leak, recommended we change it"
+
+"I'll deal with it" Euan said as he walked over to a wall with three orange handles, he pulled out one of them to reveal a tank with gree algae inside "I see the leak " he said as he put in a new one.
+
+Euan walked over to ladder and began to climb down, he began to cough, and he stood still, he was dizzy and fell off the ladder and hit his head on the metal bar on the way down.
+
+Specialist Zh'vhinnar ran over to the ensign lying on the ground unconscious, he tapped on his combadge "Zh'vhinnar to sickbay, medical emergency in the life support control room"
+
+A few moments later three medical personal arrived and ran over to Ensign Buchanan, the human female who seemed to be in charge tapped on her combadge "Hence to transporter room two, beam me, ensign Buchanan and petty officer Shran to sickbay"
+
+Seconds later the blue light appeared, and the staff arrived in sickbay. The blue lights appeared again with Ensign Buchanan lying unconscious on the surgical bed in sickbay, Abbie turned to Shran "Give me two CC's Cordrazine", shran handed her the hypospray and she injected Euan with it.
+
+"It looks like he had an allergic reaction to something, then a concussion from his fall." Abbie said as she looked over her patient. "If he's been working with that plant for a while, then it may mean that something's changed about it."
