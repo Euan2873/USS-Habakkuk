@@ -234,5 +234,49 @@ As they waited, Ziara flipped on the music, her personal mix of rock and roll th
 
 #### Chapter 5
 
+"...with that said," the captain said as he finished updating Doldar with his concerns, "I think Ensign Buchanan could use a little help assertng himself with the botanical teams. Our algae-based life support system is a prototype. An extra set of eyes can't hurt." "Ah, yes. I heard about the prototype. Rest assured, Ensign Buchanan is in good hands." replied, Doldar. He thought about his reputation from his previous experiments and reassured the captain that he would be more cautious. "I'll make sure I won't singe any eyebrows." Doldar remembered a previous incident and muttered under his breath, "...or fur for that matter."
 
+"How are your projects coming along?" the captain asked.
+
+"I've been working on a way to interface with the ship's systems, but with varying degrees of success thus far...." Doldar had studied in great detail of Lieutenant Reginald Barclay's encounter with the Cytherians and wanted to recreate a neural scan interface.
+
+"Interface? Tell me more." Captain Henry said to Doldar.
+
+Doldar asked the computer to retrieve the information on the Neural Scan Interface and read out loud, "Computer, what is a neural scan interface?"
+
+The computer responded, "A neural scan interface was a technology invented by Lieutenant Reginald Barclay while under the influence of a Cytherian probe.
+
+After having his intelligence drastically increased by the probe, Barclay used the holodeck to create the necessary equipment, and tied his brain into the USS Enterprise-D's main computer core, instructing the computer on how to perform the procedure. This had the effect of integrating Barclay's thought processes into the Enterprise-D itself, essentially allowing him to act as the ship's computer. Utilizing this interface, Barclay generated a highly-charged graviton field from the warp nacelles, creating a powerful subspace distortion which transported the Enterprise-D 30,000 light years away, to the center of the galaxy. There, the crew encountered the Cytherians, who disconnected Barclay from the computer and returned his intelligence to normal."
+
+Doldar continued, "The are neural intefaces available, but none are as sophisticated as this."
+
+Hercules' eyes widened. "This sounds extremely risky. Were you intending to clear this with me?"
+
+Doldar often forget protocol when he's engaged in his research. He stuttered as he realized what he forgot, "Y-yes, captain. It had completely left my mind."
+
+"Were you planning to tell me once we were hurled to the center of the galaxy?" The captain was upset.
+
+Doldar clearly flustered, "I-I wasn't planning to control the ship in that manner, captain." He regained some of his composure, "I plan to connect the neural interface to the sensors and equipment in the science lab. Nothing that would put the ship at risk."
+
+"Cease and desist your experiments until such time as we have time to meet as senior staff and consider the possible repercussions of activating such a device. This ship is not your playground, Doldar. Are you conducting any other such projects?"
+
+"Aye, captain. I'll halt the research. I have no other risky projects, both personal and official...on this ship." Doldar responded.
+
+The ready room door chimed.
+
+"Enter," Hercules said in an irritated tone.
+
+Ensign Buchanan walked in, padd in hand "Sir here is a status report on the algae life support system" he said as he handed the Padd over.
+
+Hercules stood up and took the PADD. “I’ll look this over. Doldar, I want you to make an examination of his findings also. As for both of you, we are about to be on our own for five years. I need you both performing optimally. I can’t expect to ask for updates regarding irregularities in systems,” he said shifting his gaze to the Ferengi, “or protocol.”
+
+Doldar, "Aye, captain."
+
+"Yes sir" Euan responded, "The issues were connected, all it took was a simple recalibration of the system"
+
+“You’re both dismissed.”
+
+"em, yes sir" Euan said as he turned back toward the door.
+
+Hercules turned back to his desk as he studied the padd.
 
