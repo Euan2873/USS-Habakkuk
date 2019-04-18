@@ -224,6 +224,13 @@ A shuttlecraft of unusual design appeared, it read USS Javelin, NX - 75012. "Wha
 
 "I'll wait for you at the finish line, Dosru out"
 
+"The only reason you'd be waiting for us at the finish line is if we're coming back from getting a post victory drink." Ziara said with a purr as the countdown to the start of the race began.
+
+The spectators voice was projected to all the racers "When you see the torpedo explode, you begin"
+
+The torpedo shot from the lead ship and exploded as all the shuttles hurried off beginning the race.
+
+As they waited, Ziara flipped on the music, her personal mix of rock and roll that really got her into the mood flying a several ton chunk of metal at speeds unimaginable to her distant ancestors. Mighty Wings came on and when the torpedo exploded, Ziara's shuttle lept forward, accelerating towards the sun. She had timed her acceleration perfectly, leaping out into the lead of the pack of starships that raced downward into the gravity well. "Looks like we got the jump, now all we have to do is keep it. Modulate the shields and see how much we can cut off by diving into the corona. It's a bit risky but should cement our lead if we can pull it off."
 
 #### Chapter 5
 
