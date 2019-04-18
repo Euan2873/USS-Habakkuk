@@ -301,3 +301,5 @@ A few moments later three medical personal arrived and ran over to Ensign Buchan
 Seconds later the blue light appeared, and the staff arrived in sickbay. The blue lights appeared again with Ensign Buchanan lying unconscious on the surgical bed in sickbay, Abbie turned to Shran "Give me two CC's Cordrazine", shran handed her the hypospray and she injected Euan with it.
 
 "It looks like he had an allergic reaction to something, then a concussion from his fall." Abbie said as she looked over her patient. "If he's been working with that plant for a while, then it may mean that something's changed about it."
+
+Doctor Berham studied the bio bed for a moment, then checked the contusion on the Ensign's head. "I'll need a report from science to formulate an antidote, but he appears to be stable at the moment." He turned to the nurse at the foot of the bed. "I'll want to know if his status changes at all or if he wakes up."
