@@ -165,19 +165,33 @@ Chell held on tight, not sure if Ziara might gun it. Getting a quick glance at t
 Ensign Euan Buchanan was sitting at a table in the stargazer, he had a Padd in his hand and a glass or orange liquid in a glass on the table.
 
 Captain Henry entered the area. He had completed his rounds. He walked beside the young ensign and indicated that he would like to take a seat. "May I?"
+
 Euan stood at attention "please sir" he said as he motioned for the Captain to sit down.
+
 The captain sat. "You have quite the privilege, Euan. This is a first-of-its-kind ship. A prototype vessel boasting algae-based life support systems, and it’s your job to manage them. How are our botany teams looking?"
+
 "That's what I am reading about just now" he tapped the Padd "I was actually thinking about going to the life support control on deck thirty-six"
+
 "Yes. I was down their earlier today. I overheard one of the teams talking about retarded growth patterns nearest to the deflector batteries. Something about restricting the master resonating feed relay. What's your take on that?"
+
 "I’ll look into it" Euan said as he took a drink from his orange juice.
+
 "Can I give you some advice?"
-"Please" the ensign responded
+
+"Please" the ensign responded.
+
 "You're young. You are new to this ship. You are overseeing some people who have been in Starfleet for decades. Your brilliance earned you a position on the bridge. But when a captain finds out about a potential problem with his ship, informs you of such a problem, and you reply, 'I'll look into it', it doesn't make you look good. You should be one step ahead of me. Or else I might feel a little nervous about your having such a huge responsibility."
+
 "I’ll keep it in mind" he stood up, a bit nervous about what just happened "And to be honest, I was never the best at biology, that is why i am reading about the system now"
+
 "It never hurts to be studious," the captain said as he, too, stood. "Why don't you provide me a report on that master resonating feed relay by 1100 hours?"
+
 "Done sir"
+
 "And while you’re at it," the captain said as he proceeded to walk away, "I would check the primary nadion frequency coils. I heard a tech team talking about needing to refocus them." Captain Henry exited the pub after giving a wink to Euan.
+
 Euan tapped on his comm badge "Buchanan to ops, have a team meet me in life support control" he said as he exited the stargazer.
+
 
 
 
