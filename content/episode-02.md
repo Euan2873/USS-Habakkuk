@@ -192,9 +192,17 @@ The captain sat. "You have quite the privilege, Euan. This is a first-of-its-kin
 
 Euan tapped on his comm badge "Buchanan to ops, have a team meet me in life support control" he said as he exited the stargazer.
 
+![Life-Support](/images/life-support.jpg)
 
+Euan walked into the life support control room, he saw an ensign and a specialist first class standing, the ensign was at the control panel in the centre and the specialist was on the upper level.
 
+“Okay people” Ensign Buchanan said “We have an issue with the master resonating feed relay, Ensign Dinalar that’s your assignment”
 
+“Yes sir” the bolian ensign said as he climbed through a Jefferies tube.
+
+“Specialist Zh'vhinnar I need you to look into the primary nadion frequency coils” Euan said as he walked to the centre console as Zh'vhinnar nodded and walked out of a door on the upper level.
+
+#### Chapter 4
 
 
 
