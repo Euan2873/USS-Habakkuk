@@ -204,5 +204,28 @@ Euan walked into the life support control room, he saw an ensign and a specialis
 
 #### Chapter 4
 
+The shuttle, Black Betty was on the start line for the race, a voice came over the comm "Racers we have a late arrival, please stand by"
+
+Ziara waited at the line, she knew what that meant in a simulation like this, the commander was back. "Look like she's back to test our mettle." Ziara said pleased at the entrance.
+
+Chell let out a slight chuckle. "Well then give 'em a show. I should have placed some bets."
+
+The shuttle got hailed on a starfleet frequency "The is commander Reson, i told the bridge officer to deal with the situation themself since it was minor, ie br right there. With somrthing to show you"
+
+Ziara wondered what Reson wanted to show her. However, she was willing to be patient and wait. "Can't wait to see it."
+
+A shuttlecraft of unusual design appeared, it read USS Javelin, NX - 75012. "What do you think" Dosru said.
+
+"I see you found the latest upload from the runabout design department." Ziara said with a laugh.
+
+"Nope this is my own design" the commander said "I started work on it when I found out I was posted on a galaxy class; it can be built using spare parts on the ship"
+
+"Interesting," Ziara said with a purr. "Let's see how it preforms."
+
+"I'll wait for you at the finish line, Dosru out"
+
+
+#### Chapter 5
+
 
 
