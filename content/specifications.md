@@ -44,7 +44,7 @@ science:
 - title: Medical
   people: 
   - image: /images/Dr-berham.png
-    name: lt,Cmdr, Dr Miles Berham
+    name: Lt,Cmdr, Dr Miles Berham
     description: CMO
   - image: https://ui-avatars.com/api/?name=Abbie+Hence
     name: Lieutent Junior Grade Abbie Hence
