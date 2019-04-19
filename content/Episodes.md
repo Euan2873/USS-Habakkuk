@@ -8,7 +8,7 @@ episodes:
         image: /images/DS9-Promenade.jpg
     - 
         slug: /episode-02
-        title: "Episode 2 - Janeway Orbital"
+        title: "Episode 2 - Algae"
         image: /images/algae.jpg
 ---
         
