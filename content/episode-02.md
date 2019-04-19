@@ -1,5 +1,5 @@
 ---
-title: Episode 2 - Janeway Orbital
+title: Episode 2 - Algae
 ---
 
 ### Prologue
