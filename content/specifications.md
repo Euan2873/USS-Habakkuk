@@ -33,7 +33,6 @@ operations:
   - image: /images/Ensign-Buchanan.png
     name: Ensign Euan Buchanan
     description: COO
-  - 
 
 science:
 - title: Science
