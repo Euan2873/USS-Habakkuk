@@ -10,6 +10,8 @@ command:
   - image: /images/Dosru-Reson.png
     name: Commander Dosru Reson
     description: First Officer
+- title: Conn
+  people:
   - image: /images/Ziara.png
     name: Lieutenent Junior Grade Ziara Rrareth
     description: CHO
