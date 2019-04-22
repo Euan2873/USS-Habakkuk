@@ -43,6 +43,7 @@ science:
   - image: /images/Icheb.jpg
     name: Ensign Icheb
     description: Astrometrics Officer
+    pdf: /Icheb.pdf
 - title: Medical
   people: 
   - image: /images/Dr-berham.png

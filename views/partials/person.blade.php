@@ -5,7 +5,12 @@
         </div>
         <div class="md:w-6/10">
             <h2 class="font-semibold text-2xl">{{ $person['name'] }}</h2>
-            <p class="">{{ $person['description'] }}</p>
+            <p>{{ $person['description'] }}</p>
+            @if(array_key_exists('pdf', $person))
+	            <p>
+	            	<a class="text-black" href="{{ $person['pdf'] }}">Download PDF</a>
+	            </p>
+            @endif
         </div>
     </div>
 </div>
