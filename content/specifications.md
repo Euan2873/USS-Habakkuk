@@ -41,6 +41,9 @@ science:
   - image: /images/Doldar.png
     name: Lieutenent Commander Doldar
     description: CSO
+  - image: /images/Icheb.jpg
+    name: Ensign Icheb
+    description: Astrometrics Officer
 - title: Medical
   people: 
   - image: /images/Dr-berham.png
