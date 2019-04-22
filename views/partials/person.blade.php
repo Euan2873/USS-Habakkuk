@@ -8,7 +8,7 @@
             <p>{{ $person['description'] }}</p>
             @if(array_key_exists('pdf', $person))
 	            <p>
-	            	<a class="text-black" href="{{ $person['pdf'] }}">Download PDF</a>
+	            	<a class="text-black" href="{{ $person['pdf'] }}">Click to open character sheet</a>
 	            </p>
             @endif
         </div>
