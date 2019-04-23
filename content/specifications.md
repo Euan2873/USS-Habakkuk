@@ -25,6 +25,9 @@ operations:
   - image: /images/Tonjot-Zettu.png
     name: Lieutenant Tonjot Zettu
     description: Security officer - Bajoran
+  - image: /images/Greg_Luger.png 
+    name: Ensign Greg Luger
+    description: Hazard Specialist 
 - title: Engineering
   people: 
   - image: /images/Sovin.png
