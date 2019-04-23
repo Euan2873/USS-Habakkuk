@@ -37,6 +37,10 @@ operations:
     name: lieutenant Junior Grade Sporen
     description: Forensic's Specialist - Vulcan
     pdf: Sporen.pdf
+  - image: /images/Tom_Ten-feathers.png
+    name: Senior Chief Petty Officer Tom Ten-feathers
+    description: Security Officer - Human
+    pdf: Tom_Ten-Feathers.pdf 
 - title: Engineering
   people: 
   - image: /images/Sovin.png
