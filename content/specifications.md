@@ -29,6 +29,10 @@ operations:
     name: Ensign Greg Luger 
     description: Hazard Specialist - Human
     pdf: Greg_Luger.pdf
+  - image: /images/Gog-Praalellv.png
+    name: Chief Petty Officer Gog Praalellv
+    description: Survival Specialist - Tellarite
+    pdf: Gog-Praalellv.pdf
 - title: Engineering
   people: 
   - image: /images/Sovin.png
