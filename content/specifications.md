@@ -28,6 +28,7 @@ operations:
   - image: /images/Greg_Luger.png 
     name: Ensign Greg Luger 
     description: Hazard Specialist - Human
+    pdf: Greg_Luger.pdf
 - title: Engineering
   people: 
   - image: /images/Sovin.png
