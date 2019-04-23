@@ -32,7 +32,7 @@ operations:
   - image: /images/Gog-Praalellv.png
     name: Chief Petty Officer Gog Praalellv
     description: Survival Specialist - Tellarite
-    pdf: Gog-Praalellv.pdf
+    pdf: Gog_Praalellv.pdf
   - image: /images/Sporen.png
     name: lieutenant Junior Grade Sporen
     description: Forensic's Specialist - Vulcan
