@@ -303,3 +303,39 @@ Seconds later the blue light appeared, and the staff arrived in sickbay. The blu
 "It looks like he had an allergic reaction to something, then a concussion from his fall." Abbie said as she looked over her patient. "If he's been working with that plant for a while, then it may mean that something's changed about it."
 
 Doctor Berham studied the bio bed for a moment, then checked the contusion on the Ensign's head. "I'll need a report from science to formulate an antidote, but he appears to be stable at the moment." He turned to the nurse at the foot of the bed. "I'll want to know if his status changes at all or if he wakes up."
+
+### Chapter 7
+
+Okel walks into life support holding a tricorder. “I heard there was some form of accident here. What can you tell me about it?” Ensign Dinalar, a bolian female walked over from the control panel. "Sir i am afraid we won't know much until the medical report comes through"
+
+“Well could you tell me what you observed? Just the facts, who, where, when, you know the drill.” Okel replied. He tried to look around the room.
+
+"Yes sir, to start with Specialist Zh'vhinnar reported that a algae tank had a leakage, so Ensign Buchanan went to change it, which he did fine, then when he went do the ladder to see the captain" The ensign paused for a few seconds "He started coughing and then fell off, hit his head off that metal bar, you can see a bit of blood on it"
+
+Okel goes over to the ladder. He inspects it for cracks or grease. Then he runs the tricorder over the area.
+
+“Hmmm.” He shakes the tricorder and thinks to himself that he really needs to improve his scanning abilities.
+Okel decides to climb the ladder himself. He goes slowly but deliberately putting extra pressure on each rung testing for weakness, flexing, or slippage.
+
+As Lieutenant Okel climbed the ladder, he noticed nothing out of the ordinary with it, anyone could climb it.
+
+“Ensign Dinalar,” Okel called out, “About how high was Mr. Buchanan when he fell?”
+
+Dinalar turned around to face Okel "About half-way up sir"
+
+Okel jumps down from the ladder as his communicator beeps. He listens to the captain’s request. Then he keys his communicator and relays the captains request for the first officer to take command of the bridge.
+
+Okel didn't believe that there was any attempt at foul play or defect in equipment. He decides to head to the bridge to file his report.
+
+“Commander Reson to the bridge. The captain requests you take command. “
+
+"Sure, may i know why". The commander responded
+
+“I’m sorry sir the captain did not inform me as to the reason. “
+
+"Okay, meet me there" the Dosru said. "I will contact the captain once were up there"
+
+“It might be in relation to lieutenant Buchanan’s accident. I’ve just finished my investigation of the area and will be filling a report shortly. “
+
+"Fill me in on the accident when we get to the bridge". Commander Reson responded.
+
