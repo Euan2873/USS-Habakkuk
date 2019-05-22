@@ -339,3 +339,10 @@ Okel didn't believe that there was any attempt at foul play or defect in equipme
 
 "Fill me in on the accident when we get to the bridge". Commander Reson responded.
 
+### Chapter 8
+
+Dr. Berham looked up at the monitor on the bio-bed with concern furrowing his brow. "We're running out of time," he said, "Buchanan only has a few hours before this reaction goes systemic and he dies".
+
+He turned to Captain Henry, "I'm wondering if his DNA was changed from the cure you were talking about and that's making him more vulnerable to this kind of severe reaction to certain stimuli."
+
+The captain was becoming more frustrated. "I was afraid of this. I am gong to have to contact Starfleet about this matter. I do not like opening an old can of worms. It could put everything I ever worked for into jeopardy. I was sworn to secrecy. But how can I let Euan suffer? I'm just afraid that there might be those who are okay with him dying and the secret of Lubas Minor dying with him."
